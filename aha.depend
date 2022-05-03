@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634654134 source:c:\codeblocks programos\aha\main.cpp
+	<iostream>
+	<string>
+
